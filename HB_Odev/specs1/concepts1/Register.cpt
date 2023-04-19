@@ -1,0 +1,12 @@
+Created by Testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Uye olma adimlari izlenir ve kontrolu saglanir
+* "Hesap Icon" id'li elemente tikla
+* "Misafir Kullanıcı Text" li elementin oldugu kontrol edilir
+* "Üye Ol Butonu" xpath'li elemente tikla
+* "Üye Olma Ekran Kontrol" xpath'li elementin oldugu kontrol edilir
+* "txtEmail" id'li elemente tikla
+* "txtEmail" id'li elemente "furkan.hacibebekoglu@testinium.com" text degerini gonder
+* "Doğrulama Kontrolü" xpath'li elementin oldugu kontrol edilir
+* "btnSignUpSubmit" id'li elemente tikla

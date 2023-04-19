@@ -1,0 +1,42 @@
+[
+  {
+    "key": "Profil Back",
+    "androidValue": "com.pozitron.hepsiburada:id/ivToolbarBack",
+    "androidType": "id"
+  },
+  {
+    "key": "Kategoriler",
+    "androidValue": "//android.widget.FrameLayout[@content-desc=\"Kategorilerim\"]/android.widget.FrameLayout/android.widget.ImageView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Telefon",
+    "androidValue": "//android.widget.FrameLayout[@content-desc=\"topMenuItem1\"]/android.view.ViewGroup/android.widget.ImageView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "CepTelefonu",
+    "androidValue": "//android.view.ViewGroup[@content-desc=\"insideMenuItem1-1\"]/androidx.cardview.widget.CardView/android.widget.ImageView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "IOS Telefon",
+    "androidValue": "h2LevelChildCategoryText3",
+    "androidType": "id"
+  },
+  {
+    "key": "Filtrele",
+    "androidValue": "com.pozitron.hepsiburada:id/txtOptionBarFilters",
+    "androidType": "id"
+  },
+  {
+    "key": "Kuponlu Ürün Switch",
+    "androidValue": "com.pozitron.hepsiburada:id/cbFilter",
+    "androidType": "id"
+  },
+  {
+    "key": "Ürünleri Gör",
+    "androidValue": "btnEmailSelect",
+    "androidType": "id"
+  }
+]

@@ -1,0 +1,20 @@
+Created by Testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Login olma butonuna tiklanır
+* "Giriş Yap Butonu" xpath'li elemente tikla
+
+# Gerekli mail bilgileri girilir
+* "txtUserName" id'li elemente tikla
+* "txtUserName" id'li elemente "furkan.hacibebekoglu@testinium.com" text degerini gonder
+* "btnLogin" id'li elemente tikla
+
+# Sifre girisi yapilir
+* "Şifre Text Alanı" xpath'li elemente tikla
+* "Şifre Text Alanı" xpath'li elemente "F.urkan!257" text değerini gönder
+* "btnEmailSelect" id'li elemente tikla
+* "android:id/button1" li elementin oldugu kontrol edilir
+* "android:id/button1" id'li elemente tikla
+
+# Basarili giris kontrolu yapilir
+* "Hoşgeldiniz Text" xpath'li elementin gorunurlugu kontrol edilir

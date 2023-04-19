@@ -1,0 +1,47 @@
+[
+{
+  "key": "Filtrelenmiş Ürün Sonuç Sayfası",
+  "androidValue": "com.pozitron.hepsiburada:id/rvPlp",
+  "androidType": "id"
+},
+{
+  "key": "Filtrelenmiş Ürün Seç",
+  "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/androidx.appcompat.widget.LinearLayoutCompat/androidx.recyclerview.widget.RecyclerView/androidx.cardview.widget.CardView[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.Button",
+  "androidType": "xpath"
+},
+{
+  "key": "Ürüne Tıkla",
+  "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/androidx.appcompat.widget.LinearLayoutCompat/androidx.recyclerview.widget.RecyclerView/androidx.cardview.widget.CardView[2]/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout[1]/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup/android.widget.ImageView",
+  "androidType": "xpath"
+},
+  {
+    "key": "Ürün Detay",
+    "androidValue": "//android.view.ViewGroup[@content-desc=\"Renk Sarı ve 18.119,08 TL\"]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Ürün Detay Kontrol",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.LinearLayout/android.widget.TextView]",
+    "androidType": "xpath"
+  },
+{
+  "key": "Ürünü Sepete Ekle",
+  "androidValue": "com.pozitron.hepsiburada:id/product_detail_add_to_cart_text",
+  "androidType": "id"
+},
+{
+  "key": "Sepete Git",
+  "androidValue": "com.pozitron.hepsiburada:id/goBasketTxt",
+  "androidType": "id"
+},
+  {
+    "key": "Sepet Ürün Kontrolü",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[2]/android.view.View[1]/android.view.View/android.widget.ListView/android.view.View/android.view.View/android.view.View[6]/android.widget.EditText",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Alışverişi Tamamla",
+    "androidValue": "continue_step_btn",
+    "androidType": "id"
+  }
+  ]

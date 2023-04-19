@@ -1,0 +1,13 @@
+Created by Testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Kategori Secimi Yapilir
+* "Kategoriler" xpath'li elemente tikla
+# Kategori Filtreleme Yapilir
+* "Telefon" xpath'li elemente tikla
+* "CepTelefonu" xpath'li elemente tikla
+* "IOS Telefon" id'li elemente tikla
+* "Filtrele" id'li elemente tikla
+* "Kuponlu Ürün Switch" id'li elemente tikla
+# Yapilan Filtreleme Kontrol Edilir
+* "Ürünleri Gör" id'li elemente tikla

@@ -1,0 +1,17 @@
+Created by Testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Filtrelenmis Urun Secimi Kontrolu Yapilir
+* "Filtrelenmiş Ürün Sonuç Sayfası" li elementin oldugu kontrol edilir
+# Urun Detay Secimi Yapılır
+* "Filtrelenmiş Ürün Seç" xpath'li elemente tikla
+* "Ürüne Tıkla" id'li elemente tikla
+* "Ürün Detay" id'li elemente tikla
+# Urun Detay Kontrolu Yapilir
+* "Ürün Detay Kontrol" li elementin oldugu kontrol edilir
+# Urun Sepete Eklenir
+* "Ürünü Sepete Ekle" id'li elemente tikla
+# Urun Sepetine Gidilir ve Alisveris Tamamlanir
+* "Sepete Git" id'li elemente tikla
+* "Sepet Ürün Kontrolü" id'li elemente tikla
+* "Alışverişi Tamamla" id'li elemente tikla

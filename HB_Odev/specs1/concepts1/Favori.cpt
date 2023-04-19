@@ -1,0 +1,13 @@
+Created by Testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Favori Ekleme Yapilir
+* "Favori Kalp" xpath'li elemente tikla
+# Favori Kontrolu Yapilir
+* "Kalp Kontrol" xpath'li elementin gorunurlugu kontrol edilir
+# Eklenmis Favorinin Liste Kontrolu ve Silme İslemi Yapilir
+* "Liste Kontrol" xpath'li elementin gorunurlugu kontrol edilir
+* "Fav Açma"  xpath'li elemente tikla
+* "Fav Detay" xpath'li elemente tikla
+* "Fav Sil" xpath'li elemente tikla
+* "Fav Kontrol" xpath'li elementin gorunurlugu kontrol edilir

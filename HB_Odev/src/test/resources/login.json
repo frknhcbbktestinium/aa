@@ -1,0 +1,42 @@
+[
+  {
+    "key": "Giriş Yap Butonu",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Text Alanı",
+    "androidValue": "txtUserName",
+    "androidType": "id"
+  },
+  {
+    "key": "Devam Et butonu",
+    "androidValue": "btnLogin",
+    "androidType": "id"
+  },
+  {
+    "key": "Hoşgeldiniz Text",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Şifre Text Alanı",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[4]/android.view.View/android.widget.EditText",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Second Giriş Yap Butonu",
+    "androidValue": "btnEmailSelect",
+    "androidType": "id"
+  },
+  {
+    "key": "Tamam Butonu",
+    "androidValue": "android:id/button1",
+    "androidType": "id"
+  },
+  {
+    "key": "Second Giriş Yap Butonu",
+    "androidValue": "btnEmailSelect",
+    "androidType": "id"
+  }
+]
